@@ -6,4 +6,8 @@
     background-color: white;
     border-width: 3px;
     border-color: black;
+    float: left;
+}
+.square :disabled{
+    color: blue;
 }
